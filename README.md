@@ -1,5 +1,6 @@
 # MyWebClass collaboration and brainstorming activity to identify required content for mywebclass
 
+
 The purpose of this assignment is to practice collaborating using GIT/GitHub and to do this you need to create a list of things that you have learned in this class, things that you don't understand , and things that you want to learn.  
 
 ## Instructions
